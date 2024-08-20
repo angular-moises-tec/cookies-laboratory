@@ -1,0 +1,5 @@
+# Ignorar node_modules en el servidor
+server/node_modules/
+
+# Ignorar node_modules en el cliente
+stores/node_modules/
